@@ -1,0 +1,8 @@
+Rfc
+NoCertificado
+Certificado
+Sello
+SelloCFD
+NoCertificadoSAT
+SelloSAT
+UUID
