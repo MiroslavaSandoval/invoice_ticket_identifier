@@ -16,7 +16,7 @@ This project is designed to streamline the process of data analysis by providing
 
 By using this tool, you can save time and effort in preparing your data for analysis, ensuring that your insights are based on clean and well-processed data.
 
-![Example Visualization](path/to/your/image.png)
+![Example Visualization](diagrama_de_flujo_horizontal.png)
 
 ## Instructions
 
