@@ -1,6 +1,4 @@
-# invoice_ticket_identifier
-
-# Project Title
+# Invoice - Ticket identifier
 
 One-liner subtitle: Efficient Data Processing and Visualization Tool for Invoices and Tickets
 
