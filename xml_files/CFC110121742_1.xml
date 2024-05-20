@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd" Version="4.0" Fecha="2023-10-11T10:07:28" Moneda="MXN" TipoCambio="1" SubTotal="634.00" Total="634.00" FormaPago="28" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="62270" Exportacion="01" NoCertificado="NoCertificado_confidencial" Certificado="certificado_confidencial" Sello="sello_confidencial" xmlns:FA="http://www.pegasotecnologia.com/secfd/Schemas" xmlns:adddomexp="http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn" xmlns:adddomrec="http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor">
+  <cfdi:Emisor Rfc="CFC110121742" Nombre="COMERCIALIZADORA FARMACEUTICA DE CHIAPAS" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="PITA800808DC8" Nombre="PITA PEREZ" UsoCFDI="D01" DomicilioFiscalReceptor="00000" RegimenFiscalReceptor="605" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="51142618" NoIdentificacion="7501249607263" Cantidad="2.0000" ClaveUnidad="H87" Descripcion="SIMVASTATINA 10 MG 30 TABLETAS C2 7263" ValorUnitario="317.00" Importe="634.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="634.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="0.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" Base="634.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="UUID_confidencial" FechaTimbrado="2023-10-11T11:08:29" RfcProvCertif="SST060807KU0" SelloCFD="sello_cfd_confidencial" SelloSAT="sello_sat_confidencial" />
+  </cfdi:Complemento>
+  <cfdi:Addenda>
+    <FA:AddendaEmisor>
+      <FA:AddendaTicket>
+        <FA:DetalleSubtotales>
+          <FA:Subtotal subtotal="634.000000" tasa="0.00" totalImpuesto="0.00" />
+        </FA:DetalleSubtotales>
+      </FA:AddendaTicket>
+    </FA:AddendaEmisor>
+    <adddomexp:AddendaDomicilioExpedidoEn calle="F A CDMX, DOMINGO DIEZ" noExterior="S/N" noInterior="" colonia="LOMAS DE LA SELVA" municipio="CDMX" estado="CDMX" pais="MEXICO" codigoPostal="62270" />
+    <adddomrec:AddendaDomicilioReceptor calle="Calle CDMX" noExterior="808" noInterior="" colonia="SANTO DOMINGO" municipio="CDMX" estado="CDMX" pais="MEXICO" codigoPostal="00000" />
+  </cfdi:Addenda>
+</cfdi:Comprobante>

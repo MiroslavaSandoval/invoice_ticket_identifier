@@ -1,0 +1,30 @@
+nombre: EMAIL
+nombre: NUMTICKET
+nombre: CALREC
+nombre: NEXREC
+nombre: NINREC
+nombre: COLREC
+nombre: MUNREC
+nombre: ESTREC
+nombre: PAIREC
+nombre: CODREC
+ObjetoImp
+Exportacion
+TotalImpuestosTrasladados
+ClaveProdServ
+FormaPago
+TipoCambio
+ClaveProdServ
+NoIdentificacion
+MetodoPago
+calle: Calle CDMX
+noExterior: 808
+noInterior:
+colonia: SANTO DOMINGO
+municipio: CDMX
+estado: CDMX
+pais: MEXICO
+codigoPostal: 00000
+Nombre: PITA PEREZ
+DomicilioFiscalReceptor: 00000
+LugarExpedicion: 00000
