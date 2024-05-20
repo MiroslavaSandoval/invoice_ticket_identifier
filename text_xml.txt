@@ -1,0 +1,651 @@
+AXN37701 (1).xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  Version: 4.0
+  Serie: AXN
+  Folio: 37701
+  Fecha: 2023-10-09T10:01:42
+  SubTotal: 108.96
+  Descuento: 0.00
+  Moneda: MXN
+  Total: 108.96
+  TipoDeComprobante: I
+  LugarExpedicion: 80020
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-09T11:01:42
+  RfcProvCertif: SED1102088J7
+  Nombre: FARMACIA GUADALAJARA
+  RegimenFiscal: 601
+  Cantidad: 1.000
+  ClaveUnidad: H87
+  Descripcion: RAMIPRIL 300MG 30 CAP PHARMAL
+  ValorUnitario: 108.96
+  Importe: 108.96
+  Descuento: 0.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D02
+  Base: 108.96
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 108.96
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+--------------------------------------------------
+CFC110121742_1.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:FA: http://www.pegasotecnologia.com/secfd/Schemas
+  xmlns:adddomexp: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd
+  Version: 4.0
+  Fecha: 2023-10-11T10:07:28
+  Moneda: MXN
+  SubTotal: 634.00
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-11T11:08:29
+  RfcProvCertif: SST060807KU0
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  subtotal: 634.000000
+  tasa: 0.00
+  totalImpuesto: 0.00
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.00
+  Importe: 634.000000
+  calle: F A CDMX, DOMINGO DIEZ
+  noExterior: S/N
+  colonia: LOMAS DE LA SELVA
+  codigoPostal: 62270
+  UsoCFDI: D01
+  RegimenFiscalReceptor: 605
+  Base: 634.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 634.00
+--------------------------------------------------
+CFC110121742_2.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:FA: http://www.pegasotecnologia.com/secfd/Schemas
+  xmlns:adddomexp: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd
+  Version: 4.0
+  Fecha: 2023-10-11T10:07:28
+  Moneda: MXN
+  SubTotal: 634.00
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-11T11:08:29
+  RfcProvCertif: SST060807KU0
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  subtotal: 634.000000
+  tasa: 0.00
+  totalImpuesto: 0.00
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.00
+  Importe: 634.000000
+  calle: F A CDMX, DOMINGO DIEZ
+  noExterior: S/N
+  colonia: LOMAS DE LA SELVA
+  codigoPostal: 62270
+  UsoCFDI: D01
+  RegimenFiscalReceptor: 605
+  Base: 634.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 634.00
+--------------------------------------------------
+CFC110121742_3.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:FA: http://www.pegasotecnologia.com/secfd/Schemas
+  xmlns:adddomexp: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd
+  Version: 4.0
+  Fecha: 2023-10-09T09:55:30
+  Moneda: MXN
+  SubTotal: 317.00
+  Total: 317.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62250
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-09T10:56:38
+  RfcProvCertif: SST060807KU0
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  subtotal: 317.000000
+  tasa: 0.0000
+  totalImpuesto: 0
+  Cantidad: 1.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.0000
+  Importe: 317.000000
+  calle: F A CDMX, NUEVA FRANCIA
+  noExterior: 1112 Y1114 INT 1
+  colonia: DEL EMPLEADO
+  codigoPostal: 62250
+  UsoCFDI: D01
+  RegimenFiscalReceptor: 605
+  Base: 317.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 317.00
+--------------------------------------------------
+CFC110121742_4.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:FA: http://www.pegasotecnologia.com/secfd/Schemas
+  xmlns:adddomexp: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd
+  Version: 4.0
+  Fecha: 2023-10-09T09:55:30
+  Moneda: MXN
+  SubTotal: 317.00
+  Total: 317.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62250
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-09T10:56:38
+  RfcProvCertif: SST060807KU0
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  subtotal: 317.000000
+  tasa: 0.0000
+  totalImpuesto: 0
+  Cantidad: 1.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.0000
+  Importe: 317.000000
+  calle: F A CDMX, NUEVA FRANCIA
+  noExterior: 1112 Y1114 INT 1
+  colonia: DEL EMPLEADO
+  codigoPostal: 62250
+  UsoCFDI: D01
+  RegimenFiscalReceptor: 605
+  Base: 317.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 317.00
+--------------------------------------------------
+CFC110121742_5.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:FA: http://www.pegasotecnologia.com/secfd/Schemas
+  xmlns:adddomexp: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.pegasotecnologia.com/secfd/Schemas http://www.pegasotecnologia.com/secfd/Schemas/AddendaFarmaciasDelAhorro.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioExpedidoEn http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioExpedidoEn.xsd http://www.pegasotecnologia.com/secfd/Schemas/AddendaDomicilioReceptor http://www.pegasotecnologia.com/secfd/schemas/AddendaDomicilioReceptor.xsd
+  Version: 4.0
+  Fecha: 2023-10-09T09:52:02
+  Moneda: MXN
+  SubTotal: 634.00
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-10-09T10:53:10
+  RfcProvCertif: SST060807KU0
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  subtotal: 634.000000
+  tasa: 0.0000
+  totalImpuesto: 0
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.0000
+  Importe: 634.000000
+  calle: F A CDMX, DOMINGO DIEZ
+  noExterior: S/N
+  colonia: LOMAS DE LA SELVA
+  codigoPostal: 62270
+  UsoCFDI: D01
+  RegimenFiscalReceptor: 605
+  Base: 634.000000
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 634.00
+--------------------------------------------------
+CFC110121742__FV_ 2.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2023-12-30T13:04:52
+  SubTotal: 634.00
+  Moneda: MXN
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-12-30T13:04:52
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.0000
+  Importe: 634.0000
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":FD9B4B6E-864E-EE11-B377-10E7C617
+--------------------------------------------------
+CFC110121742__FV_ 3.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2023-12-30T12:42:37
+  SubTotal: 634.00
+  Moneda: MXN
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-12-30T12:42:38
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.00
+  Importe: 634.00
+  Nombre: Pita Perez
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":7D67BA9F-FF74-EE11-8E3E-10E7C61C
+--------------------------------------------------
+CFC110121742__FV_ 4.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2024-02-05T11:43:46
+  SubTotal: 651.91
+  Moneda: MXN
+  Total: 653.50
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2024-02-05T11:43:46
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 1.0000
+  ClaveUnidad: H87
+  Descripcion: COCA-COLA LIGHT 355ML 9082
+  ValorUnitario: 9.91
+  Importe: 9.91
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 321.00
+  Importe: 642.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 9.91
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.160000
+  Importe: 1.59
+  Base: 642.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 9.91
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.160000
+  Importe: 1.59
+  Base: 642.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":C4EF6E61-17BA-EE11-BE62-10E7C61C
+--------------------------------------------------
+CFC110121742__FV_ 5.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2024-01-02T08:46:15
+  SubTotal: 634.00
+  Moneda: MXN
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2024-01-02T08:46:15
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.00
+  Importe: 634.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":B4ABCA20-5C9F-EE11-A01E-10E7C61C
+--------------------------------------------------
+CFC110121742__FV_ 6.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2024-01-02T08:48:11
+  SubTotal: 634.00
+  Moneda: MXN
+  Total: 634.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62270
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2024-01-02T08:48:12
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 2.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.00
+  Importe: 634.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 634.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":EF8188E8-D68E-EE11-B43B-10E7C61C
+--------------------------------------------------
+CFC110121742__FV_.xml:
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:adddomexp: https://www.fahorro.com/facturacion/AddendaDomicilioExpedidoEn
+  xmlns:adddomrec: https://www.fahorro.com/facturacion/AddendaDomicilioReceptor
+  xmlns:FA: https://www.fahorro.com/facturacion
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  Version: 4.0
+  Serie: FV
+  Fecha: 2023-12-30T13:09:05
+  SubTotal: 317.00
+  Moneda: MXN
+  Total: 317.00
+  TipoDeComprobante: I
+  LugarExpedicion: 62250
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2023-12-30T13:09:05
+  RfcProvCertif: MAS980812UK1
+  Nombre: COMERCIALIZADORA FARMACEUTICA DE CHIAPAS
+  RegimenFiscal: 601
+  Cantidad: 1.0000
+  ClaveUnidad: H87
+  Descripcion: SIMVASTATINA 10 MG 30 TABLETAS C2 7263
+  ValorUnitario: 317.0000
+  Importe: 317.0000
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 317.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+  Base: 317.0
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0
+"NUMTICKET":2322866E-4F47-EE11-B292-F4390910
+--------------------------------------------------
+CXU12006.xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  Version: 4.0
+  Serie: CXU
+  Folio: 12006
+  Fecha: 2024-01-02T08:52:34
+  SubTotal: 287.92
+  Descuento: 0.00
+  Moneda: MXN
+  Total: 287.92
+  TipoDeComprobante: I
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2024-01-02T08:52:34
+  RfcProvCertif: SED1102088J7
+  Nombre: FARMACIA GUADALAJARA
+  RegimenFiscal: 601
+  Cantidad: 2.000
+  ClaveUnidad: H87
+  Descripcion: RAMIPRIL 300MG 30 CAP PHARMAL
+  ValorUnitario: 123.46
+  Importe: 246.92
+  Descuento: 0.00
+  Cantidad: 1.000
+  ClaveUnidad: H87
+  Descripcion: PALETA MEGA BROWNIE 70GR NESTLE
+  ValorUnitario: 41.00
+  Importe: 41.00
+  Descuento: 0.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 246.92
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 41.00
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 287.92
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+--------------------------------------------------
+CXU12156 (1).xml:
+  xmlns:cfdi: http://www.sat.gob.mx/cfd/4
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  Version: 4.0
+  Serie: CXU
+  Folio: 12156
+  Fecha: 2024-01-25T08:47:59
+  SubTotal: 255.54
+  Descuento: 0.00
+  Moneda: MXN
+  Total: 256.92
+  TipoDeComprobante: I
+  xsi:schemaLocation: http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd
+  xmlns:tfd: http://www.sat.gob.mx/TimbreFiscalDigital
+  xmlns:xsi: http://www.w3.org/2001/XMLSchema-instance
+  xsi:schemaLocation: http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd
+  Version: 1.1
+  FechaTimbrado: 2024-01-25T08:48:00
+  RfcProvCertif: SED1102088J7
+  Nombre: FARMACIA GUADALAJARA
+  RegimenFiscal: 601
+  Cantidad: 2.000
+  ClaveUnidad: H87
+  Descripcion: RAMIPRIL 300MG 30 CAP PHARMAL
+  ValorUnitario: 123.46
+  Importe: 246.92
+  Descuento: 0.00
+  Cantidad: 1.000
+  ClaveUnidad: H87
+  Descripcion: CHICLE TRIDENT XTRA/C FRSH 13.6G
+  ValorUnitario: 8.62
+  Importe: 8.62
+  Descuento: 0.00
+  RegimenFiscalReceptor: 605
+  UsoCFDI: D01
+  Base: 246.92
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 8.62
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.160000
+  Importe: 1.38
+  Base: 246.92
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.000000
+  Importe: 0.00
+  Base: 8.62
+  Impuesto: 002
+  TipoFactor: Tasa
+  TasaOCuota: 0.160000
+  Importe: 1.38
+--------------------------------------------------
